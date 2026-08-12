@@ -26,4 +26,4 @@ spec:
         - '-c'
       args:
        - |
-        print("Hello from SAP AI Core. mira change. version 2.0")
+        print("Hello from SAP AI Core. mira change. version 2.1")
